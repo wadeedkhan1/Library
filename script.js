@@ -32,10 +32,6 @@ const book4 = new Book('Pride', 'Jane Austen', 432, true);
 const book5 = new Book('Brave New', 'Aldous Huxley', 311, true);
 const book6 = new Book('Hobbit', 'J.R.R. Tolkien', 310, false);
 const book7 = new Book('Frankenstein', 'Mary Shelley', 280, true);
-
-myLibrary.push(book1, book2, book3, book4, book5, book6, book7);
-
-
 myLibrary.push(book1, book2, book3, book4, book5, book6, book7);
 
 
