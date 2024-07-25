@@ -35,10 +35,6 @@ const book7 = new Book('Frankenstein', 'Mary Shelley', 280, true);
 
 myLibrary.push(book1, book2, book3, book4, book5, book6, book7);
 
-
-myLibrary.push(book1, book2, book3, book4, book5, book6, book7);
-
-
 document.getElementById("book-form").addEventListener("submit",function(event){
     event.preventDefault();
 
